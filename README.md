@@ -1,4 +1,4 @@
-# DeepthiAngara-AV-JOB-A-THON-March-2022
+# AV-JOB-A-THON-March-2022
 
 **Problem:**
 Churn Prediction - Whether a customer will churn or not?
